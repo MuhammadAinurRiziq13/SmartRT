@@ -1,4 +1,3 @@
-Berikut adalah README **yang sudah diperbarui** dengan penambahan langkah `php artisan storage:link` agar file seperti **foto struk pengeluaran** bisa diakses publik:
 
 ---
 
@@ -15,7 +14,7 @@ Aplikasi ini digunakan untuk membantu pengelolaan rumah, penghuni, iuran bulanan
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/MuhammadAinurRiziq13/SmartRT.git
 cd nama-repo
 ```
 
